@@ -1,13 +1,21 @@
+'use strict';
 
+function DateHelpers() {}
 
-function daysBetween(firstDate, secondDate) {
+DateHelpers.prototype.daysBetween = function(first, second) {
   var oneDay = 24*60*60*1000; // hours*minutes*seconds*milliseconds
-  // var firstDate = new Date();
-  // var secondDate = new Date('2016-12-25');
+  var firstDate = new Date(first);
+  var secondDate = new Date(second);
 
-  var diffDays = Math.round(Math.abs((firstDate.getTime() - secondDate.getTime())/(oneDay)));
+  return Math.round(Math.abs((firstDate.getTime() - secondDate.getTime())/(oneDay)));
 }
 
-function hoursBetween(firstDate, secondDate) {
-  
+DateHelpers.prototype.hoursBetween = function(first, second) {
+  var oneHour = 60*60*1000; // minutes*seconds*milliseconds
+  var firstDate = new Date(first);
+  var secondDate = new Date(second);
+
+  return Math.round(Math.abs((firstDate.getTime() - secondDate.getTime())/(oneHour)));
 }
+
+module.exports = DateHelpers;

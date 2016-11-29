@@ -55,7 +55,6 @@ Santa.prototype.intentHandlers = {
   },
   "NaughtyOrNiceIntent": function(intent, session, response) {
     var personName = intent.slots.person_name.value;
-    
     var items = [
       "Santa Says that " + personName + " is on the nice list",
       "Santa Says it's complicated",
@@ -63,7 +62,6 @@ Santa.prototype.intentHandlers = {
       "Santa Says " + personName + " is on the naughty and nice list",
       "Santa Says " + personName + " is not on either list.  Oops"
     ]
-    
     var responseText = items[Math.floor(Math.random()*items.length)];
     response.tellWithCard(responseText, responseText, responseText);
   },
@@ -87,6 +85,7 @@ Santa.prototype.intentHandlers = {
   "AmIOnTheNaughtListIntent": function (intent, session, response) {
     response.tellWithCard("Only Santa Claus can see that list", "Only Santa Claus can see that list", "Only Santa Claus can see that list");
   }
+  // END Generated
 };
 
 
