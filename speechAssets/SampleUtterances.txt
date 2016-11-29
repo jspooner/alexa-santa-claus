@@ -1,0 +1,19 @@
+CountDownIntent when is christmas
+CountDownIntent when christmas is here
+CountDownIntent when will christmas be here
+CountDownIntent how many days until christmas
+
+NaughtyOrNiceIntent is {person_name} on the naught or nice list
+
+HowManyReindeerThereAreIntent how many reindeer there are
+WhatColorNoseDoesRudolphsHaveIntent what color nose does Rudolphs have
+WhereHeLivesIntent where he lives
+WhatHeLikesToEatIntent what he likes to eat 
+WhatTheElvesAreDoingIntent what the elves are doing
+AmIOnTheNaughtListIntent am I on the naught list
+HowManyReindeerThereAreIntent claus how many reindeer there are
+WhatColorNoseDoesRudolphsHaveIntent claus what color nose does Rudolphs have
+WhereHeLivesIntent claus where he lives
+WhatHeLikesToEatIntent claus what he likes to eat 
+WhatTheElvesAreDoingIntent claus what the elves are doing
+AmIOnTheNaughtListIntent claus am I on the naught list

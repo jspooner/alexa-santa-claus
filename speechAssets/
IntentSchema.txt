@@ -1,0 +1,23 @@
+{
+  "intents": [
+    {"intent":"HowManyReindeerThereAreIntent"},{"intent":"WhatColorNoseDoesRudolphsHaveIntent"},{"intent":"WhereHeLivesIntent"},{"intent":"WhatHeLikesToEatIntent"},{"intent":"WhatTheElvesAreDoingIntent"},{"intent":"AmIOnTheNaughtListIntent"},
+    
+    
+    
+    {
+      "intent": "NaughtyOrNiceIntent",
+      "slots": [
+        {
+          "name": "person_name",
+          "type": "LIST_OF_NAMES"
+        }
+      ]
+    },
+    {
+      "intent": "CountDownIntent"
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    }
+  ]
+}
