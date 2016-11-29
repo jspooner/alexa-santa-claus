@@ -1,0 +1,22 @@
+{
+  "name": "alexa-santa-claus",
+  "version": "1.0.0",
+  "description": "Santa Claus Alexa Skill",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jspooner/alexa-santa-claus.git"
+  },
+  "keywords": [
+    "alexa"
+  ],
+  "author": "Jonathan Spooner",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/jspooner/alexa-santa-claus/issues"
+  },
+  "homepage": "https://github.com/jspooner/alexa-santa-claus#readme"
+}
