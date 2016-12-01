@@ -4,6 +4,9 @@ CountDownIntent when will christmas be here
 CountDownIntent how many days until christmas
 
 NaughtyOrNiceIntent is {person_name} on the naught or nice list
+NaughtyOrNiceIntent if {person_name} is on the naught list or nice list
+NaughtyOrNiceIntent if {person_name} is on the naught list
+NaughtyOrNiceIntent if {person_name} is on the nice list
 
 HowManyReindeerThereAreIntent how many reindeer there are
 WhatColorNoseDoesRudolphsHaveIntent what color nose does Rudolphs have
@@ -17,3 +20,5 @@ WhereHeLivesIntent claus where he lives
 WhatHeLikesToEatIntent claus what he likes to eat 
 WhatTheElvesAreDoingIntent claus what the elves are doing
 AmIOnTheNaughtListIntent claus am I on the naught list
+
+

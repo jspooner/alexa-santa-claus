@@ -9,7 +9,7 @@
       "slots": [
         {
           "name": "person_name",
-          "type": "LIST_OF_NAMES"
+          "type": "AMAZON.US_FIRST_NAME"
         }
       ]
     },
