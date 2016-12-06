@@ -1,5 +1,9 @@
 # alexa-santa-claus
 
+Unfortuanlly this skill will not accepted but your kids can still ask Alexa "how many days unil christmas".
+
+![Amazon Response](https://raw.githubusercontent.com/jspooner/alexa-santa-claus/master/response.png)
+
 
 ## AWS Lambda Setup
 
@@ -19,17 +23,12 @@
 14. Copy the ARN from the top right to be used later in the Alexa Skill Setup
 
 
+## Configure Amazon
 
-
-https://developer.amazon.com/public/solutions/alexa/alexa-skills-kit/docs/alexa-skills-kit-interaction-model-reference#slot-types
-
-AMAZON.US_FIRST_NAME
-
-https://developer.amazon.com/public/solutions/alexa/alexa-skills-kit/docs/speech-synthesis-markup-language-ssml-reference#audio
-
-
-
+TODO
 
 #### Links
 
 * http://tobuildsomething.com/2015/08/14/Amazon-Echo-Alexa-Tutorial-The-Definitive-Guide-to-Coding-an-Alexa-Skill/
+* https://developer.amazon.com/public/solutions/alexa/alexa-skills-kit/docs/alexa-skills-kit-interaction-model-reference#slot-types
+* https://developer.amazon.com/public/solutions/alexa/alexa-skills-kit/docs/speech-synthesis-markup-language-ssml-reference#audio
