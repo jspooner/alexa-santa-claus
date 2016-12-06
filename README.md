@@ -1,6 +1,6 @@
 # alexa-santa-claus
 
-This skill gives Alexa a direct connection to Santa Clause.
+This skill gives Alexa a direct connection to Santa Claus.
 
 * Alexa ask Santa how many reindeer there are
 * Alexa ask Santa what color nose does Rudolphs have
