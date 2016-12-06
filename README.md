@@ -1,5 +1,16 @@
 # alexa-santa-claus
 
+This skill gives Alexa a direct connection to Santa Clause.
+
+* Alexa ask Santa how many reindeer there are
+* Alexa ask Santa what color nose does Rudolphs have
+* Alexa ask Santa where he lives
+* Alexa ask Santa what he likes to eat 
+* Alexa ask Santa what the elves are doing
+* Alexa ask Santa am I on the naught list
+
+## Alexa Certification Feedback
+
 Unfortuanlly this skill will not accepted but your kids can still ask Alexa "how many days unil christmas".
 
 ![Amazon Response](https://raw.githubusercontent.com/jspooner/alexa-santa-claus/master/response.png)
