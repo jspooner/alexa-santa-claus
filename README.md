@@ -1,6 +1,6 @@
 # alexa-santa-claus
 
-![Amazon Response](https://raw.githubusercontent.com/jspooner/alexa-santa-claus/master/IMG_2011.JPG)
+![Amazon Response](https://raw.githubusercontent.com/jspooner/alexa-santa-claus/master/IMG_2009.JPG)
 
 This skill gives Alexa a direct connection to Santa Claus.
 
