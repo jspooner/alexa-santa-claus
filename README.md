@@ -1,5 +1,7 @@
 # alexa-santa-claus
 
+![Amazon Response](https://raw.githubusercontent.com/jspooner/alexa-santa-claus/master/IMG_2011.JPG)
+
 This skill gives Alexa a direct connection to Santa Claus.
 
 * Alexa ask Santa how many reindeer there are
